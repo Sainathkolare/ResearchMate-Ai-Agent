@@ -1,0 +1,6 @@
+{
+  "name": "ResearchMate AI – Research Paper Assistant",
+  "description": "A comprehensive academic research assistant for students and researchers to generate titles, abstracts, outlines, methodologies, full research papers, keywords, and verified APA/IEEE citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
